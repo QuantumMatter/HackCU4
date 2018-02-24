@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: ae43c7c5a6fd0bc488e3a0764862252b
+timeCreated: 1503298299
+licenseType: Store
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: bolt
+    100002: cartridge
+    100004: case1
+    100006: firing_pin
+    100008: frame
+    100010: frame_inner_gears
+    100012: gear_detail
+    100014: hammer
+    100016: inner_gear
+    100018: inner_gear_spring
+    100020: magazine
+    100022: magazine_follower
+    100024: magazine_release
+    100026: magazine_spring
+    100028: //RootNode
+    100030: safety
+    100032: slide
+    100034: slide_inner_gears
+    100036: slide_rail
+    100038: trigger
+    400000: bolt
+    400002: cartridge
+    400004: case1
+    400006: firing_pin
+    400008: frame
+    400010: frame_inner_gears
+    400012: gear_detail
+    400014: hammer
+    400016: inner_gear
+    400018: inner_gear_spring
+    400020: magazine
+    400022: magazine_follower
+    400024: magazine_release
+    400026: magazine_spring
+    400028: //RootNode
+    400030: safety
+    400032: slide
+    400034: slide_inner_gears
+    400036: slide_rail
+    400038: trigger
+    2300000: bolt
+    2300002: cartridge
+    2300004: case1
+    2300006: firing_pin
+    2300008: frame
+    2300010: gear_detail
+    2300012: hammer
+    2300014: inner_gear
+    2300016: inner_gear_spring
+    2300018: magazine
+    2300020: magazine_follower
+    2300022: magazine_release
+    2300024: magazine_spring
+    2300026: safety
+    2300028: slide
+    2300030: slide_rail
+    2300032: trigger
+    3300000: bolt
+    3300002: cartridge
+    3300004: case1
+    3300006: firing_pin
+    3300008: frame
+    3300010: gear_detail
+    3300012: hammer
+    3300014: inner_gear
+    3300016: inner_gear_spring
+    3300018: magazine
+    3300020: magazine_follower
+    3300022: magazine_release
+    3300024: magazine_spring
+    3300026: safety
+    3300028: slide
+    3300030: slide_rail
+    3300032: trigger
+    4300000: cartridge
+    4300002: case1
+    4300004: frame
+    4300006: trigger
+    4300008: magazine
+    4300010: magazine_follower
+    4300012: magazine_spring
+    4300014: magazine_release
+    4300016: gear_detail
+    4300018: inner_gear
+    4300020: slide_rail
+    4300022: slide
+    4300024: firing_pin
+    4300026: safety
+    4300028: bolt
+    4300030: inner_gear_spring
+    4300032: hammer
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
